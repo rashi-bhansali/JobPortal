@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+.MyCard
+{
+    font-family: Nunito Sans;
+    position: relative;
+    background-color:white;
+    border-radius: 4%;
+    /* max-width: 31.3% !important; */
+    margin: 25% auto;
+    box-sizing: border-box;
+}
+
+.Name h3{
+    font-weight: 600;
+}
+
+.Name h3 span{
+    font-size: 16px;
+    color: #666;
+    margin-left: 1em;
+}
+
+
+.MyCard::before
+{
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    content: "“";
+    font-family: Quicksand;
+    font-size: 120px;
+    font-weight: bold;
+    transform: rotate(-180deg);
+    line-height: 30px;
+    color:#e9896a;
+}
+
+ .profile
+{
+    position: relative;
+    border-radius: 50%;
+    bottom: 30px;
+    height: 100px;
+    border: 3px solid white;
+    /* width: 130px !important; */
+}
+
+.testimonial
+{
+    color: #888;
+}
