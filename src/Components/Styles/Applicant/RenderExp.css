@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+.expdetails{
+    font-family: 'Quicksand';
+}
+
+
+.expdetails::before {
+    position: absolute;
+    left: 7px;
+    top: 20px;
+    width: 2px;
+    height: 80%;
+    content: "";
+    background: #e8ecec;
+} 
+
+.expdetails > i {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 16px;
+    height: 16px;
+    border: 3px solid #e9896a;
+    content: "";
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.role > h5{
+    font-weight: bold;
+}
+
+.company{
+    margin-left: 1.25rem;
+    color: #e9896a;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.workDesc{
+	color: #666;
+	font-size: 16px;
+}
+
+.expdetails > ul > li {
+	color: #000 !important;
+	margin-top: 1rem !important;
+}
+
+.expdetails > ul> li:hover{
+	color: #000 !important;
+}
+

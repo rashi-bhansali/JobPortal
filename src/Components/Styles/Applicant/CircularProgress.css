@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+.completeness
+{
+    font-family: 'Quicksand';
+}
+
+.completeness h5
+{
+    font-weight: 800;
+}
+.completeness p{
+    font-size: smaller;
+}
+
+.circularprogress
+{
+    width: 65%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px #ccc;
+}

@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.ResumeHero
+{
+    font-family: 'Quicksand';
+    background:linear-gradient(0deg, rgba(20,20,20, 0.7), rgba(20,20,20, 0.7)), url("../../Images/PhoneCheck.jpg");
+    height: 30rem;
+    background-size: cover;
+    opacity: 1;
+    text-align: center;
+}
+
+.Brand{
+    font-family: 'Pacifico';
+    position: absolute;
+    left: 2%;
+    top: 6%;
+    color: white;
+}
+
+.draweropen
+{
+    z-index: 9;
+    position: absolute;
+    float: right;
+    right: 3%;
+    top: 7% !important;
+    background-color:transparent;
+    color: #eee;
+}
+
+.Typewriter
+{
+    position: relative;
+    color: white;
+    font-weight:800 !important;
+    font-size:40px;
+    top: 50%;
+}
+
+.rs-drawer-header-close
+{
+    padding: auto !important;
+    color: white !important;
+}
+
+.MyDrawer
+{
+    width: 25% !important;
+}
+
+.rs-drawer-content::-webkit-scrollbar { width: 0 !important }
+
+.rs-drawer-content
+{
+    background-color: #111 !important;
+}
+
+.drawerheader{
+    text-align: center !important;
+    color: #777;
+    font-size: smaller;
+}
+
+.imgdrawer
+{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    border: 2px solid #777;
+    margin-bottom: 1rem;
+}

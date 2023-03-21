@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+
+.resume-container{
+	font-family: 'Quicksand';
+}
+
+.resume {
+	margin-left: 1%;
+	margin-top: 0%;
+	width: 95%;
+}
+
+.r-icons{
+	color: #e9896a;
+}
+
+
+.resume-container button{
+	background-color: transparent !important;
+	font-weight: bold;
+}
+.resume-container button:hover {
+	color: #e9896a !important;
+}
+
+.field > h4{
+	font-weight: bold;
+}
+

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+.DashboardHeading
+{
+    font-family: 'Quicksand';
+    height: 4rem;
+    border-bottom: 1px solid #ddd;
+}
+
+.DashboardHeading h3
+{
+    font-weight: 800;
+}
+
+.dashcard
+{
+    text-align: center;
+    padding: 5% 3%;
+    box-shadow: 0px 0px 0px #ddd;
+    transition: 0.5s;
+    border-radius: 6px;
+}
+.dashcard:hover{
+    box-shadow: 0px 0px 25px #999;
+}
+
+.dashcard a{
+    color: inherit;
+}
+.dashcard a:hover
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.dashcard h4{
+    margin-top: 2rem;
+    font-weight: lighter;
+}
+
+.dashcard p{
+    color: #e9896a;
+}
+
+.r{
+    border-right: 1px solid #ddd;
+}
+
+.t
+{
+    border-bottom: 1px solid #ddd;
+}
+
+.dashcard > a > .icon
+{
+    color:#666;
+}
+.dashcard:hover > a > .icon
+{
+    color: #e9896a;
+}
+
+

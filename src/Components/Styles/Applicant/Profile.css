@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+.Profile{
+    font-family: 'Quicksand';
+}
+
+.goback
+{
+    margin-left: 0.9rem;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid #e9896a;
+    color: black;
+    font-family: 'Quicksand';
+    padding: 2% 5% 2% 1%;
+}
+
+.goback:hover
+{
+    background-color: #333;
+    color: #e9896a;
+    border-color: black;
+}
+
+.backicon
+{
+    margin-right: 0.4rem;
+}
+
+.profile-head
+{
+    border-bottom: 1px solid #eee;
+}
+.profile-head > div > h4{
+    font-weight: 800 !important;
+}
+
+.profileimage 
+{
+    text-align: center !important;
+}
+
+.profileimage > form{
+    text-align: center !important;
+}
+
+.pic-button{
+    background: transparent;
+    margin-left: 40%;
+}
+
+.p-icon-edit
+{
+    color: #e9896a;
+}
+
+.image-input{
+    border:  1px solid #aaa;
+    border-radius: 5px;
+    width: 50% !important;
+    margin-left: 25%;
+}
+
+.profilepic
+{
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+}

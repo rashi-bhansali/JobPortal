@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+
+.chip
+{
+    background: #e9896a;
+}
+
+.category-chip
+{
+    background: #e9896a !important;
+    margin-right: 1rem !important;
+    padding: 1rem 2rem !important;  
+}
+
+.optionContainer > li
+{
+    color: black !important;
+    font-weight: 800 !important;
+}
+
+.optionContainer > li:hover
+{
+    background: #e9896a;
+}
+
+input:checked
+{
+    background: #e9896a;
+}
+
+.highlight
+{
+    background: #e9896a;
+}
+
+.p-icons
+{
+    color: #e9896a;
+}
+
+.p-icon
+{
+    text-align: right;
+}
+.p-icon > h6 > button{
+    background-color: transparent;
+}
+.p-icon > h6 > button:hover{
+    color: #e9896a;
+}
+
+.sub-button
+{
+    background-color: black;
+    color: #e9896a;
+    border-radius: 10px;
+    margin-left: 43.5%;
+    padding: 2% 5%;
+}

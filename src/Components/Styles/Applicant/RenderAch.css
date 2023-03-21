@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+.achdetails{
+    font-family: 'Quicksand';
+}
+
+.achdetails > hr{
+ margin-left: 0%;
+ width: 85%;
+}
+
+
+.atitle{
+	color: #444;
+}
+
+.atitle > h5{
+    font-weight: bold;
+}
+
+.org{
+    margin-left: 1rem;
+    color: #444;
+}
+
+.achdetails > ul > li {
+	color: #000 !important;
+	margin-top: 0.5rem !important;
+}
+
+.achdetails > ul> li:hover{
+	color: #000 !important;
+}
+
+.link > a{
+	text-decoration: none !important;
+	margin-left:1.25em;
+	color: #e9896a !important;
+}
+
+.link > a:hover{
+	text-decoration: none !important;
+	color: #444 !important;
+}
+
+.achdetails::before {
+    position: absolute;
+    left: 7px;
+    top: 20px;
+    width: 2px;
+    height: 80%;
+    content: "";
+    background: #e8ecec;
+} 
+
+.achdetails > i {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 16px;
+    height: 16px;
+    border: 3px solid #e9896a;
+    content: "";
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.year{
+	margin-left:1.2rem;
+    font-size: 16px;
+    font-style: italic;
+	color: #444;
+}

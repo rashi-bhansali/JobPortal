@@ -1,0 +1,15 @@
+.appliedcompany
+{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.appliedcompany > li{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.appliedlocation
+{
+    color: #e9896a !important;
+}

@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+label{
+    font-weight: 800 !important;
+}
+
+.per-input
+{
+    background-color: #efefef !important;
+    border: none !important;
+    /* padding: 1.7rem !important; */
+}
+
+.p-icons
+{
+    color: #e9896a;
+}
+
+.p-icon
+{
+    text-align: right;
+}
+.p-icon > h6 > button{
+    background-color: transparent;
+}
+.p-icon > h6 > button:hover{
+    color: #e9896a;
+}
+
+.per-input-edit:focus
+{
+    outline: none !important;
+    border: 1px solid #333;
+    box-shadow: none !important;
+}
+
+.sub-button
+{
+    background-color: black;
+    color: #e9896a;
+    border-radius: 10px;
+    margin-left: 43.5%;
+    padding: 2% 5%;
+}

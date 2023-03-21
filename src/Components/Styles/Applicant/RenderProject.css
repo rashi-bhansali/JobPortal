@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+.projdetails{
+	font-family: 'Quicksand';
+}
+
+.projdetails > hr{
+ margin-left: 0%;
+ width: 85%;
+}
+
+.title{
+	color: #444;
+}
+
+.title > h5{
+	font-weight: bold;
+}
+
+.link > a{
+	text-decoration: none !important;
+	margin-left:1.25em;
+	color: #e9896a !important;
+}
+
+.link > a:hover{
+	text-decoration: none !important;
+	color: #444 !important;
+}
+
+.desc > p{
+	color: #777;
+}
