@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.Testimonial
+{
+  background:linear-gradient(0deg, rgba(228, 130, 87, 0.4), rgba(0, 0, 0, 0.9)), url("../../../Happy.jpg");
+  background-size: cover;
+  box-sizing: border-box;
+  height: 40rem;
+}
+
+.Heading
+{
+    text-align: center;
+    color: white;
+    font-family: Quicksand;
+}
+
+.Heading h1{
+    font-weight: 700;
+}

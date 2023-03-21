@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+
+.Job
+{
+	font-family: Nunito Sans;
+    position: relative;
+    background-color:white;
+    border-radius: 2%;
+    margin: 5% auto;
+    box-sizing: border-box;
+	padding: 10px;
+	box-shadow: 1px 2px 4px #ccc;
+	transition: 0.3s;
+}
+
+.Job:hover{
+	box-shadow: 1px 0px 15px #aaa;
+	margin-top: 1%;
+}
+
+.Clogo
+{
+    position: relative;
+    height: 200px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+.Cname
+{
+	font-size: 15px;
+    color:#e9896a;
+	font-weight: 700;
+}
+
+.Role
+{
+	font-size: 20px;
+    color:#000;
+	padding-bottom: 5px;
+	font-weight: 500;
+}
+
+hr{
+	width: 90%;
+}
+
+a.Apply{
+	float: right;
+	padding: 2% 3%;
+	color: #000;
+	border-radius: 20px;
+	border: 1px solid #e9896a;
+	font-size: 13px;
+	font-weight: 900;
+	transition: 0.3s;
+}
+
+a.Apply:hover{
+	background-color: #e9896a;
+	color: #000;
+	text-decoration: none;
+}
+
+.Loc{
+	color:#555;
+	font-size: 15px;
+}

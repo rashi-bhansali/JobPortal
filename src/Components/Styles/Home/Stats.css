@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
+
+.stats
+{
+    color: white;
+    background-color: #aaa;
+    text-align: center;
+    height: 25rem;
+    font-family: Quicksand;
+    background:linear-gradient(0deg,rgba(228, 130, 87, 0.3), rgba(0, 0, 0, 0.9) ), url("../../../handshake.jpg");
+    background-size: cover;
+}
+
+.heading
+{
+    text-align: center;
+
+    font-family: Quicksand;
+}
+
+.heading h1{
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.Counter
+{
+    font-weight: 900;
+    font-size: 80px;
+}
+
+.countername
+{
+    font-size: 20px;
+    font-weight: 800;
+}

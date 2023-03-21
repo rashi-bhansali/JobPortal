@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.RecentJobs
+{
+  
+	font-family: Nunito Sans;
+  background-color: #eee;
+  box-sizing: border-box;
+  padding: 0% 3% 5% 3%;
+}
+
+.JobHeading
+{
+    text-align: center;
+    color: black;
+    font-family: Quicksand;
+}
+
+.JobHeading h1{
+    font-weight: 700;
+}
+
+.JobHeading p{
+    color: #666;
+}
+
+.More{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+
+button.More{
+	float: none;
+	padding: 0.5% 2%;
+	color: #000;
+	border-radius: 25px;
+	border: 1px solid #e9896a;
+	font-size: 15px;
+  font-weight: bolder;
+	transition: 0.3s;
+}
+
+button.More:hover{
+	background-color: #e9896a;
+	color: #000;
+	text-decoration: none;
+}
+
+.filter-button
+{
+  border-radius: 6px;
+  border: 1px solid #e9896a;
+  color: #000;
+}
+.filter-button:hover{
+  border: 1px solid #000;
+  color: white;
+  background-color: #000;
+}
+
+#stats{
+  height: 2rem;
+}

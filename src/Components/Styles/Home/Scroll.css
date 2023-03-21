@@ -1,0 +1,36 @@
+.scroll-to-top
+{
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    animation: fadeIn 700ms ease-in-out 1s both;
+    cursor: pointer;
+}
+
+@keyframes fadeIn 
+{
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
+
+.scrollup
+{
+    background-color: transparent;
+    color: white;
+    font-size: 2rem;
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.scrollup:hover{
+    background-color: rgb(228, 130, 87);
+    color: black;
+    border: none;
+}
