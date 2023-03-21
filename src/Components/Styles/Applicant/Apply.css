@@ -1,0 +1,143 @@
+/* modal styles */
+
+.companylogo > img
+{
+  height: 5rem;
+  width: 7rem;
+  border-radius: 25%;
+}
+
+.compdetails
+{
+  text-align: left;
+  padding: 0% 7% 3% 7%;
+}
+
+.compdetails > div > h6{
+  font-weight: 700 !important;
+}
+
+.jobdetails > h6
+{
+  font-weight: 700 !important;
+  margin: 0% 1% 3% 1%;
+}
+
+.skillspan{
+  display: inline-block;
+  border: 2px solid #e9896a;
+  border-radius: 6px;
+  padding: 0% 3%;
+  margin: 1%;
+  color: #111 !important;
+  font-weight: bold;
+}
+
+.confirm
+{
+  margin: 5% 5% 0% 5%;
+}
+
+.confirm > button{
+  margin: 0% 4%;
+  height: 3rem;
+  width: 7rem;
+  background: transparent;
+  border-radius: 6px;
+  color: white;
+}
+
+.confirm > .apply
+{
+  border: 1px solid #00af91;
+  background: #00af91;
+}
+
+.confirm > .cancel
+{
+  border: 1px solid black;
+  background: black;
+}
+
+
+.rs-modal-dialog
+{
+  font-family: 'Quicksand';
+  text-align: center;
+}
+
+.rs-modal-backdrop
+{
+  opacity: 0.5 !important;
+}
+
+.modalHeading
+{
+  font-weight: 800;
+  padding-bottom: 10px;
+}
+
+.controlbutton
+{
+  color: black !important;
+  background-color: white !important;
+  border:2px solid #111 !important;
+  margin: 0px 4px 0px 4px;
+}
+.controlbutton:hover
+{
+  cursor: pointer;
+  background-color: white !important;
+}
+.controlbutton:focus, .controlbutton:active{
+  box-shadow: none !important;
+}
+
+.selected
+{
+  border:2px solid #e9896a !important;
+}
+
+.cfield
+{
+  padding: 5px 0px 5px 0px;
+  height: 3rem;
+  position: relative;
+}
+
+.cfield > input
+{
+  position: absolute;
+  left: 5%;
+  width: 80%;
+  outline: none;
+}
+
+.cfield > .icon
+{
+  position: absolute;
+  top: 25%;
+  right: 5%;
+  color: #e9896a;
+}
+
+.Submitbutton
+{
+  width: 90% !important;
+  border: none !important;
+  background-color: #222 !important;
+  color: white !important;
+  font-weight: 600 !important;
+  height: 3rem !important;
+  margin-top: 10px;
+}
+.Submitbutton:hover
+{
+  color: #111 !important;
+  border: 2px solid #e9896a !important;
+  background-color: white !important;
+}
+
+.jobdeets{
+  margin-bottom: 1%;
+}
