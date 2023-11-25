@@ -1,5 +1,5 @@
 # Job Portal
-A interactive common web portal for job seekers to create resume, apply for openings, & employers to hire candidates based on their profiles.
+A interactive common web portal for job seekers to create resume, apply for openings, & employers to hire candidates based on their profiles. Job aspirants can track their applications through a common dashboard. This website is built using the Javascript MongoDB, Express.js, Node.js and React JS (MERN stack).
 
 ## Getting Started with Create React App
 
