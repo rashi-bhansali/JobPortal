@@ -1,6 +1,26 @@
 # Job Portal
 A interactive common web portal for job seekers to create resume, apply for openings, & employers to hire candidates based on their profiles. Job aspirants can track their applications through a common dashboard. This website is built using the Javascript MongoDB, Express.js, Node.js and React JS (MERN stack).
 
+## Landing Page 
+![image](https://github.com/yashbhangdia/JobPortal/assets/55742719/0d938b2f-9834-4cea-afd5-9f0738af576a)
+![image](https://github.com/yashbhangdia/JobPortal/assets/55742719/ee289d89-ce73-4d13-9d3e-6d539577ab5d)
+![image](https://github.com/yashbhangdia/JobPortal/assets/55742719/da1aedf5-2286-4ea9-ae51-a9068e4bdffd)
+
+
+## Candidate Dashboard
+![image](https://github.com/yashbhangdia/JobPortal/assets/55742719/72f46b40-bd51-43b0-b200-c8a41fa842ec)
+
+
+## Resume Building 
+![image](https://github.com/yashbhangdia/JobPortal/assets/55742719/2a02eaec-eec2-4dc6-9d32-76e5a6345ecd)
+![image](https://github.com/yashbhangdia/JobPortal/assets/55742719/cb878954-8b62-4e54-97c5-275ee1f9bfea)
+
+
+## Application Tracking
+![image](https://github.com/yashbhangdia/JobPortal/assets/55742719/70d7c3ea-ce40-41a6-b4e1-ff09cd383bf1)
+![image](https://github.com/yashbhangdia/JobPortal/assets/55742719/14a0770b-8e12-44a9-a2d3-916b56af8b35)
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
